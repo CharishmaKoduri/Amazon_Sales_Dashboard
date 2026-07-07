@@ -102,7 +102,11 @@ The Power BI dashboard provides an interactive overview of:
 Users can interact with visuals using filters and drill-down functionality to gain deeper business insights.
 
 
+<img width="1252" height="728" alt="Screenshot 2026-07-07 122820" src="https://github.com/user-attachments/assets/023989a3-f698-48b5-8490-6326c0f41e66" />
+
+
+
 
 ### Project Outcome
 
-This dashboard transforms raw e-commerce sales data into meaningful business insights through interactive visualizations and KPI tracking. It enables stakeholders to identify profitable categories, monitor sales performance, optimize discount strategies, and make informed, data-driven business decisions.
+This dashboard transforms raw e-commerce sales data into meaningful business insights through interactive visualizations and KPI tracking. It enables stakeholders to identify profitable categories, monitor sales performance, optimize discount strategies, and make informed, data-driven business decisions 🙂.
